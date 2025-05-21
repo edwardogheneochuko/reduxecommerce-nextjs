@@ -1,0 +1,201 @@
+
+
+{    
+    "products": [
+        {
+          "id": 1,
+          "image": "/images/prod1.jpg",
+          "text": "Modern Fabric Sofa",
+          "price": 200,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Fabric",
+          "roomType": "Living Room",
+          "style": "Modern",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "image": "/images/prod2.jpg",
+          "text": "Elegant Armchair",
+          "price": 150,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Velvet",
+          "roomType": "Living Room",
+          "style": "Classic",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "image": "/images/prod3.jpg",
+          "text": "Contemporary Loveseat",
+          "price": 300,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Fabric",
+          "roomType": "Living Room",
+          "style": "Modern",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "image": "/images/prod4.jpg",
+          "text": "Minimalist Sectional",
+          "price": 450,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Linen",
+          "roomType": "Living Room",
+          "style": "Minimalist",
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "image": "/images/prod5.jpg",
+          "text": "Compact Lounge Chair",
+          "price": 120,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Leather",
+          "roomType": "Living Room",
+          "style": "Modern",
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "image": "/images/prod6.jpg",
+          "text": "Modern Recliner",
+          "price": 220,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Fabric",
+          "roomType": "Living Room",
+          "style": "Contemporary",
+          "quantity": 1
+        },
+        {
+          "id": 7,
+          "image": "/images/prod7.jpg",
+          "text": "Luxury Chaise Lounge",
+          "price": 350,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Velvet",
+          "roomType": "Living Room",
+          "style": "Luxury",
+          "quantity": 1
+        },
+        {
+          "id": 8,
+          "image": "/images/prod8.jpg",
+          "text": "Rustic Wooden Armchair",
+          "price": 180,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Wood",
+          "roomType": "Living Room",
+          "style": "Rustic",
+          "quantity": 1
+        },
+        {
+          "id": 9,
+          "image": "/images/prod9.jpg",
+          "text": "Scandinavian Sofa",
+          "price": 320,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Linen",
+          "roomType": "Living Room",
+          "style": "Scandinavian",
+          "quantity": 1
+        },
+        {
+          "id": 10,
+          "image": "/images/prod10.jpg",
+          "text": "Vintage Rocking Chair",
+          "price": 140,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Wood",
+          "roomType": "Living Room",
+          "style": "Vintage",
+          "quantity": 1
+        },
+        {
+          "id": 11,
+          "image": "/images/prod11.jpg",
+          "text": "Convertible Sofa Bed",
+          "price": 280,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Fabric",
+          "roomType": "Living Room",
+          "style": "Functional",
+          "quantity": 1
+        },
+        {
+          "id": 12,
+          "image": "/images/prod12.jpg",
+          "text": "Mid-Century Modern Couch",
+          "price": 390,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Leather",
+          "roomType": "Living Room",
+          "style": "Mid-Century",
+          "quantity": 1
+        },
+        {
+          "id": 13,
+          "image": "/images/prod13.jpg",
+          "text": "Traditional Ottoman",
+          "price": 90,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Fabric",
+          "roomType": "Living Room",
+          "style": "Traditional",
+          "quantity": 1
+        },
+        {
+          "id": 14,
+          "image": "/images/prod14.jpg",
+          "text": "Upholstered Bench Seat",
+          "price": 170,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Velvet",
+          "roomType": "Living Room",
+          "style": "Transitional",
+          "quantity": 1
+        },
+        {
+          "id": 15,
+          "image": "/images/prod15.jpg",
+          "text": "Bold Accent Chair",
+          "price": 160,
+          "category": "Furniture",
+          "inStock": true,
+          "material": "Fabric",
+          "roomType": "Living Room",
+          "style": "Eclectic",
+          "quantity": 1
+        }
+      ],
+
+    "categories": [
+        {
+            "image": "/images/cate1.jpg",
+            "buttonText": "Up decker"
+        },
+        {
+            "image":"/images/cate2.jpg",
+            "buttonText":"View Room"
+        },
+        {
+            "image": "/images/cate3.jpg",
+            "buttonText": "1870 Pent"
+        }
+    ]
+}
